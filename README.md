@@ -16,3 +16,6 @@ Front-End Implementation of website bank using ReactJs &amp; HTML &amp; CSS
 ![image](https://github.com/kirolos100/Bank-Website-FrontEnd/assets/89070775/5bcf176f-7ee1-4683-ac94-26f58192c2ab)
 ![image](https://github.com/kirolos100/Bank-Website-FrontEnd/assets/89070775/474a425a-8e0b-4ccc-81d3-70d627e5d97c)
 ![image](https://github.com/kirolos100/Bank-Website-FrontEnd/assets/89070775/e89d120d-3f98-451d-9804-29fbbba96451)
+![image](https://github.com/kirolos100/Bank-Website-FrontEnd/assets/89070775/7aa388fb-8f17-42ef-ba84-79a98464b6e5)
+![image](https://github.com/kirolos100/Bank-Website-FrontEnd/assets/89070775/dcf2655a-dbb7-4d77-b022-0fbe41fefeee)
+
